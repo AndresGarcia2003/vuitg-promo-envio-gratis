@@ -1,9 +1,9 @@
 {
-  "vendor": "CHANGE_ME",
-  "name": "CHANGE_ME",
-  "version": "0.0.0",
-  "title": "CHANGE_ME",
-  "description": "CHANGE_ME",
+  "vendor": "vuitg",
+  "name": "promo-envio-gratis",
+  "version": "0.0.1",
+  "title": "promo envio gratis component",
+  "description": "Termometro de compras para envio gratis",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
