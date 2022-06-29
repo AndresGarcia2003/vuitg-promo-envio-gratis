@@ -5,6 +5,7 @@
   "title": "promo envio gratis component",
   "description": "Termometro de compras para envio gratis",
   "builders": {
+    "store": "0.x",
     "react": "3.x",
     "messages": "1.x",
     "docs": "0.x"

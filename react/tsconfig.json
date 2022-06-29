@@ -7,5 +7,5 @@
     "moduleResolution": "node",
     "target": "es2017"
   },
-  "include": ["./typings/*.d.ts", "./**/*.tsx", "./**/*.ts", "components/promoEnvioGratis.js", "components/promoEnvioGratis.jsx"]
+  "include": ["./typings/*.d.ts", "./**/*.tsx", "components/promoEnvioGratis.tsx"]
 }
